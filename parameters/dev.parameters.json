@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "aguadamillas-dbsrv-dev"
+            "value": "jwendt-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "aguadamillas-db-dev"
+            "value": "jwendt-db-dev"
         },
         "appServicePlanName": {
-            "value": "aguadamillas-asp-dev"
+            "value": "jwendt-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "aguadamillas-be-dev"
+            "value": "jwendt-be-dev"
         },
         "appServiceAppName": {
-            "value": "aguadamillas-fe-dev"
+            "value": "jwendt-fe-dev"
         },
         "location": {
             "value": "North Europe"
