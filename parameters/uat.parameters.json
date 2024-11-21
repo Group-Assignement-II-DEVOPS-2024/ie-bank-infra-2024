@@ -22,6 +22,9 @@
         },
         "location": {
             "value": "North Europe"
+        },
+        "appServiceAPIEnvVarENV": {
+            "value": "uat"
         }
     }
 }
