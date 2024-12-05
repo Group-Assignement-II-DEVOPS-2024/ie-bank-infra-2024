@@ -39,7 +39,6 @@ jobs:
          template: ./main.bicep
          parameters: >
            ./parameters/dev.parameters.json
-           userAlias=${{ env.USER_ALIAS }}
            appServiceAPIEnvVarENV=${{ vars.ENV }}
            appServiceAPIEnvVarDBHOST=${{ vars.DBHOST }}
            appServiceAPIEnvVarDBNAME=${{ vars.DBNAME }}
@@ -67,7 +66,6 @@ jobs:
          template: ./main.bicep
          parameters: >
            ./parameters/uat.parameters.json
-           userAlias=${{ env.USER_ALIAS }}
            appServiceAPIEnvVarENV=${{ vars.ENV }}
            appServiceAPIEnvVarDBHOST=${{ vars.DBHOST }}
            appServiceAPIEnvVarDBNAME=${{ vars.DBNAME }}
