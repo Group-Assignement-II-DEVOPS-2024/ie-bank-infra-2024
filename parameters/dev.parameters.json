@@ -24,7 +24,22 @@
             "value": "North Europe"
         },
         "appServiceAPIEnvVarENV": {
-            "value": "dev"
+            "value": "development"
+        },
+        "appServiceAPIEnvVarDBHOST": {
+            "value": "jwendt-dbsrv-dev.postgres.database.azure.com"
+        },
+        "appServiceAPIEnvVarDBNAME": {
+            "value": "jwendt-db-dev"
+        },
+        "appServiceAPIDBHostDBUSER": {
+            "value": "iebankadmin"
+        },
+        "appServiceAPIDBHostFLASK_APP": {
+            "value": "app"
+        },
+        "appServiceAPIDBHostFLASK_DEBUG": {
+            "value": "1"
         }
     }
 }
