@@ -163,9 +163,6 @@ Services:
 
 ### 4. User Stories
 
-<antArtifact identifier="user-stories" type="text/markdown" title="Implementation User Stories">
-
-
 ```yaml
 id: IEBANK-1
 title: Base Infrastructure Setup
