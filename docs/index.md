@@ -52,6 +52,7 @@
 
 ## Technical Architecture
 <img src = "../images/technical_architecture.png" width = "500"/>
+![Alt text](../images/technical_architecture.png)
 
 ## Environment Setup
 1. Development Environment
