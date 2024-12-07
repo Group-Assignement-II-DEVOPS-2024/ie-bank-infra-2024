@@ -51,15 +51,7 @@
    - **User Story**: [IEBANK-6] Monitoring Setup
 
 ## Technical Architecture
-```mermaid
-graph TD
-    A[Frontend - Static Web App] --> B[Backend Container]
-    B --> C[PostgreSQL]
-    B --> D[Key Vault]
-    E[Container Registry] --> B
-    B --> F[App Insights]
-    F --> G[Log Analytics]
-```
+<img src = "./images/technical_architecture.png" width = "500"/>
 
 ## Environment Setup
 1. Development Environment
