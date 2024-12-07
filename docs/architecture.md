@@ -164,57 +164,47 @@ Services:
 ### 4. User Stories
 
 <antArtifact identifier="user-stories" type="text/markdown" title="Implementation User Stories">
-1. **Infrastructure Base Setup**
-   ```yaml
-   ID: IEBANK-1
-   Title: Base Infrastructure Setup
-   Description: Setup core Azure infrastructure
-   Acceptance Criteria:
-     - Resource groups created
-     - Network configured
-     - Base services deployed
-   ```
+# Infrastructure Base Setup
+id: IEBANK-1
+title: Base Infrastructure Setup
+description: Setup core Azure infrastructure
+acceptanceCriteria:
+  - Resource groups created
+  - Network configured
+  - Base services deployed
 
-2. **Container Configuration**
-   ```yaml
-   ID: IEBANK-2
-   Title: Container Infrastructure
-   Description: Setup container hosting environment
-   Acceptance Criteria:
-     - Container registry deployed
-     - App Service configured
-     - Container deployment working
-   ```
+# Container Configuration
+id: IEBANK-2
+title: Container Infrastructure
+description: Setup container hosting environment
+acceptanceCriteria:
+  - Container registry deployed
+  - App Service configured
+  - Container deployment working
 
-3. **Database Setup**
-   ```yaml
-   ID: IEBANK-3
-   Title: Database Infrastructure
-   Description: Setup PostgreSQL database
-   Acceptance Criteria:
-     - Database server deployed
-     - Connections working
-     - Backups configured
-   ```
+# Database Setup
+id: IEBANK-3
+title: Database Infrastructure
+description: Setup PostgreSQL database
+acceptanceCriteria:
+  - Database server deployed
+  - Connections working
+  - Backups configured
 
-4. **Security Implementation**
-   ```yaml
-   ID: IEBANK-4
-   Title: Security Setup
-   Description: Implement security measures
-   Acceptance Criteria:
-     - Key Vault deployed
-     - Secrets stored
-     - Access controls configured
-   ```
+# Security Implementation
+id: IEBANK-4
+title: Security Setup
+description: Implement security measures
+acceptanceCriteria:
+  - Key Vault deployed
+  - Secrets stored
+  - Access controls configured
 
-5. **Monitoring Setup**
-   ```yaml
-   ID: IEBANK-5
-   Title: Monitoring Infrastructure
-   Description: Setup monitoring services
-   Acceptance Criteria:
-     - App Insights configured
-     - Log Analytics working
-     - Alerts setup
-   ```
+# Monitoring Setup
+id: IEBANK-5
+title: Monitoring Infrastructure
+description: Setup monitoring services
+acceptanceCriteria:
+  - App Insights configured
+  - Log Analytics working
+  - Alerts setup
