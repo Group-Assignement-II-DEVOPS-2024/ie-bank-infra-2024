@@ -25,6 +25,9 @@
         },
         "appServiceAPIEnvVarENV": {
             "value": "uat"
+        },
+        "appServiceAPIEnvVarDBPASS": {
+            "value": "IE.Bank.DB.Admin.Pa$$"
         }
     }
 }

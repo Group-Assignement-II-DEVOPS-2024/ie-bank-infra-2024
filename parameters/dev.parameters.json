@@ -40,6 +40,9 @@
         },
         "appServiceAPIDBHostFLASK_DEBUG": {
             "value": "1"
+        },
+        "appServiceAPIEnvVarDBPASS": {
+            "value": "IE.Bank.DB.Admin.Pa$$"
         }
     }
 }
