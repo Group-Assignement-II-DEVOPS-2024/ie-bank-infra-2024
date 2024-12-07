@@ -51,7 +51,7 @@
    - **User Story**: [IEBANK-6] Monitoring Setup
 
 ## Technical Architecture
-<img src = "./images/technical_architecture.png" width = "500"/>
+<img src = "../images/technical_architecture.png" width = "500"/>
 
 ## Environment Setup
 1. Development Environment
