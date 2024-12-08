@@ -12,7 +12,7 @@
   - Actions for automated workflows
   - Secrets management
 
-#### App Service for Containers
+#### App Service for Containers 
 - Configuration:
   - Name: jwendt-be-{env}
   - SKU: B1 (1 Core, 1.75GB RAM)
