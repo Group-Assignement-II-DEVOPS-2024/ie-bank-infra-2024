@@ -1,4 +1,4 @@
-# IE Bank Architecture Design
+# IE Bank Architecture Design 
 
 ## Infrastructure Architecture
 
